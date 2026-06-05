@@ -24,6 +24,7 @@ export default defineConfig([
         gc: "readonly",
         gcUntil: "readonly",
         experimentalFeatures: "readonly",
+        runtimeFeatures: "readonly",
         napiVersion: "readonly",
         skipTest: "readonly",
       },
